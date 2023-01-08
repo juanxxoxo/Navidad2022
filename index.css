@@ -7,13 +7,13 @@ body {
 
 .welcomeP {
     position: relative;
-    top: 120px;
+    top: -10px;
 }
 
 .imagenes {
     text-align: center;
     position: relative;
-    top: 130px;
+    top: -10px;
 }
 
 .audioLog {
@@ -24,13 +24,15 @@ body {
 .gifcito {
     text-align: center;
     position: relative;
-    top: 130px;
+    top: -10px;
 }
 
 #Christmas_Lights {
     height: 100%;
     margin: 0;
     position: absolute;
+    text-align: center;
+    right: 0px;
     width: 100%;
     z-index: 1000
 }
@@ -166,6 +168,6 @@ body {
 .postD {
     color: #F5EED7;
     position: relative;
-    top: 160px;
+    top: 20px;
     text-align: right;
 }
